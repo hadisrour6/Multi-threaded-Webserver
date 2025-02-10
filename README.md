@@ -9,6 +9,25 @@ Multi-Threaded – Uses a custom thread pool to handle multiple clients efficien
 
 ## Technical Documentation  
 
+### System Requirements
+- **Operating System:** Linux, macOS, or Windows (WSL/MinGW)
+- **Compiler:** GCC (g++) with C++11 or later
+
+### Dependencies  
+g++ (C++11 or later), 
+make, 
+pthread (POSIX Threads), 
+sqlite3, 
+libsqlite3-dev, 
+iostream, 
+fstream,  
+sstream, 
+vector, 
+queue, 
+mutex, 
+thread, 
+condition_variable
+
 ### Installation  
 To run the web server locally
 
