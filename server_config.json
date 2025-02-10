@@ -1,0 +1,7 @@
+{
+    "port": 8080,
+    "max_threads": 5,
+    "static_files_dir": "static/",
+    "database_file": "database/server.db",
+    "log_file": "logs/server.log"
+}
